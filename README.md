@@ -3,6 +3,10 @@ Meu objetivo é transformar vidas através da programação!
 
 📌Atualmente aprendendo Java!
 
+## 📬 Contato
+- [LinkedIn](https://www.linkedin.com/in/darlan-hildebrando-7b3a44312/)
+- Email: [darlanmari41@email.com](mailto:darlanmari41@email.com)
+
 ### 🚀 Tecnologias & Ferramentas
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
