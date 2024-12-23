@@ -1,5 +1,5 @@
 ### Olá, eu sou o Darlan Hildebrando! 👋
-Meu objetivo é transformar vidas através da programação!
+Meu objetivo é transformar vidas através da tecnologia!
 
 📌Atualmente aprendendo Java!
 
