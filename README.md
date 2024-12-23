@@ -1,13 +1,14 @@
-### Olá, eu sou o Darlan Hildebrando! 👋
-Meu objetivo é transformar vidas através da tecnologia!
+## Olá, eu sou o Darlan Hildebrando! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-📌Atualmente aprendendo Java!
+🌱 Meu objetivo é transformar vidas através da programação!
+
+🎯 Atualmente aprendendo Java!
 
 ## 📬 Contato
 - [LinkedIn](https://www.linkedin.com/in/darlan-hildebrando-7b3a44312/)
 - Email: [darlanmari41@email.com](mailto:darlanmari41@email.com)
 
-### 🚀 Tecnologias & Ferramentas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tecnologias & Ferramentas
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
