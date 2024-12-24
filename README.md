@@ -19,4 +19,4 @@
 
 ## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarlanHildebrando&show_icons=true&bg_color=0E1729&title_color=CCB3FF&text_color=D6D9E0&icon_color=BBD99E&border_color=4F5B66)
 
-<img src='https://i.pinimg.com/originals/65/7f/9c/657f9cd0c1917802654ed0f600906ee5.gif'/>
+<img src='https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif'/>
